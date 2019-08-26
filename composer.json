@@ -1,7 +1,8 @@
 {
     "name": "pinguo-lixin/symfony-console-app",
     "description": "symfony console application template",
-    "type": "template",
+    "type": "project",
+    "license": "MIT",
     "keywords": ["symfony", "console"],
     "minimum-stability": "dev",
     "require": {
