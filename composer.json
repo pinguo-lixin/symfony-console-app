@@ -1,0 +1,13 @@
+{
+    "name": "pinguo-lixin/symfony-console-app",
+    "description": "symfony console application template",
+    "type": "template",
+    "require": {
+        "symfony/console": "^4.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "App"
+        }
+    }
+}
