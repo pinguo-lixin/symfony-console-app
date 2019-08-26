@@ -2,7 +2,8 @@
     "name": "pinguo-lixin/symfony-console-app",
     "description": "symfony console application template",
     "type": "template",
-    "minimum-stability": "stable",
+    "keywords": ["symfony", "console"],
+    "minimum-stability": "dev",
     "require": {
         "symfony/console": "^4.3"
     },
